@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeydin Pham</h1>
-<h3 align="center">A high school developer trying to make it through high school</h3>
+<h3 align="center">I'm a high school developer trying to make it through high school without crashing and burning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeydin&label=Profile%20views&color=0e75b6&style=flat" alt="jeydin" /> </p>
 
