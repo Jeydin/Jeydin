@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on **surviving high school**
 
-- 🌱 I’m currently learning **Spanish, Computer Science, Biology, Geometry,**
+- 🌱 I’m currently learning **Spanish, Computer Science Principles, Biology, and Geometry**
 
 - 👯 I’m looking to collaborate on **surviving high school**
 
 - 🤝 I’m looking for help with **surviving high school**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jeydin?tab=repositories](https://github.com/Jeydin?tab=repositories)
+- 👨‍💻 You can visit my website at [jeydin.is-a.dev](https://jeydin.is-a.dev)
 
 - 💬 Ask me about **how to survive high school**
-
-- 📫 How to reach me: **JeyPham21@gmail.com**
 
 - ⚡ Fun fact **I don't think I can survive high school**
 
