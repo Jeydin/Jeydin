@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeydin" alt="jeydin" /></a> </p>
 
-- 🔭 I’m currently working on **surviving high school**
+- 🔭 I’m currently working on **Munchyroll**
 
-- 🌱 I’m currently learning **Spanish, Computer Science Principles, Biology, and Geometry**
-
-- 👯 I’m looking to collaborate on **surviving high school**
+- 🌱 I’m currently learning **Psychology**
 
 - 🤝 I’m looking for help with **surviving high school**
 
 - 👨‍💻 You can visit my website at [jeydin.is-a.dev](https://jeydin.is-a.dev)
 
-- 💬 Ask me about **how to survive high school**
-
-- ⚡ Fun fact **I don't think I can survive high school**
+- ⚡ Fun fact: **I don't think I can survive high school**
 
 
 <h3 align="left">Languages and Tools:</h3>
